@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "IOxee",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
