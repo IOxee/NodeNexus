@@ -1,0 +1,12 @@
+{
+  "name": "nodenexus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "IOxee",
+  "license": "MIT"
+}
